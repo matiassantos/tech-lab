@@ -1,0 +1,11 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "My Personal web apps lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Code Somellier",
+  "license": "MIT"
+}
